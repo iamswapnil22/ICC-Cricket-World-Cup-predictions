@@ -34,7 +34,7 @@ To use the project for World Cup winner predictions, follow these steps:
 
 # Notebook
 
-The machine learning model has been trained on historical World Cup data using the `train_model.ipynb` Jupyter notebook. Check the notebook for details on the model architecture, hyperparameters, and training process. This includes metrics such as accuracy, precision, recall, and F1 score.
+The machine learning model has been trained on historical World Cup data using the `WorldCupPrediction.ipynb` Jupyter notebook. Check the notebook for details on the model architecture, hyperparameters, and training process. This includes metrics such as accuracy, precision, recall, and F1 score.
 
 # Contributing
 
